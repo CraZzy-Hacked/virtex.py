@@ -18,7 +18,7 @@ $ pkg install git -y
 
 $ pkg install python -y
 
-$ git clone https://github.com/CraZzy-Hacked/Virtex
+$ git clone https://github.com/CraZzy-Hacked/Virtex.py
 
 $ termux-setup-storage
 
